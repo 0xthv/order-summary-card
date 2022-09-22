@@ -21,10 +21,6 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-![screenshot](./Screenshot.png)
-
 ### Links
 
 - Solution URL: [My solution](https://eclectic-kelpie-a0273d.netlify.app/)
